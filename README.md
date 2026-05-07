@@ -3,6 +3,18 @@
 > **Tugas Akhir Praktikum Dasar Komputer dan Pemrograman**
 > Aplikasi Desktop berbasis Java Swing yang menghitung luas dan keliling 8 jenis bangun datar secara interaktif.
 
+# 📑 Daftar Isi
+
+- [📌 Project Description](#-project-description)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [✨ Key Features](#-key-features)
+- [📁 Project Structure](#-project-structure)
+- [⚙️ Installation & Running](#️-installation--running)
+- [📡 API Documentation](#-api-documentation)
+- [📚 Learning Outcomes](#-learning-outcomes)
+- [👩‍💻 Author](#-author)
+- [📄 License](#-license)
+
 ---
 
 ## 📌 Project Description
