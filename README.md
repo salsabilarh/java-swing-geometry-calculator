@@ -12,7 +12,7 @@
 - [⚙️ Installation & Running](#️-installation--running)
 - [📡 API Documentation](#-api-documentation)
 - [📚 Learning Outcomes](#-learning-outcomes)
-- [👩‍💻 Author](#-author)
+- [👩‍💻 Author](#%E2%80%8D-author)
 - [📄 License](#-license)
 
 ---
